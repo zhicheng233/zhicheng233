@@ -41,6 +41,7 @@ I WANT TO DIE | I WANT TO DIE | I WANT TO DIE | I WANT TO DIE | I WANT TO DIE |
 ![](https://img.shields.io/badge/C%23-Code?style=flat&logo=csharp&logoColor=ffffff&label=Code&color=%23512BD4)
 ![](https://img.shields.io/badge/QT-Framework?style=flat&logo=qt&logoColor=ffffff&label=Framework&color=%2341CD52)
 ![](https://img.shields.io/badge/React-Framework?style=flat&logo=react&logoColor=ffffff&label=Framework&color=%2361DAFB)
+
 # 座右铭
 所有命运的馈赠 早已在暗中标注好了价格
 
