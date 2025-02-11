@@ -24,6 +24,7 @@ Donate:[喂口饭吧qwq](https://zhicheng233.top/Donate/)
 
 ![](https://img.shields.io/badge/Java-Code?style=flat&logo=openjdk&logoColor=ffffff&label=Code&color=%23F80000)
 ![](https://img.shields.io/badge/Python-Code?style=flat&logo=python&logoColor=ffffff&label=Code&color=ffe108)
+![](https://img.shields.io/badge/C%23-Code?style=flat&logo=csharp&logoColor=ffffff&label=Code&color=%23512BD4)
 
 # 📌About Me
 
@@ -36,9 +37,8 @@ Fuck your chinese! I want to learn English so well, but  I can't do it. Can you 
 I WANT TO DIE | I WANT TO DIE | I WANT TO DIE | I WANT TO DIE | I WANT TO DIE |
 
 # 🌈Future
-
+![Static Badge](https://img.shields.io/badge/Rust-Code?logo=rust&label=Code&color=E64D21)
 ![](https://img.shields.io/badge/C%2B%2B-Code?style=flat&logo=cplusplus&logoColor=ffffff&label=Code&color=%2300599C)
-![](https://img.shields.io/badge/C%23-Code?style=flat&logo=csharp&logoColor=ffffff&label=Code&color=%23512BD4)
 ![](https://img.shields.io/badge/QT-Framework?style=flat&logo=qt&logoColor=ffffff&label=Framework&color=%2341CD52)
 ![](https://img.shields.io/badge/React-Framework?style=flat&logo=react&logoColor=ffffff&label=Framework&color=%2361DAFB)
 
