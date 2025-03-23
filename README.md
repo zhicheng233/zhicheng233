@@ -45,8 +45,9 @@ I WANT TO DIE | I WANT TO DIE | I WANT TO DIE | I WANT TO DIE | I WANT TO DIE |
 # 座右铭
 所有命运的馈赠 早已在暗中标注好了价格
 
-![Languages Over Time](https://stats.quira.sh/zhicheng233/languages-over-time?theme=dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhicheng233&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhicheng233)
 
 # Open Source Project
 目前没啥东西能丢GitHub上更多的是存档(
