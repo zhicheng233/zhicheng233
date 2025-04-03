@@ -1,5 +1,7 @@
 # Hi I'm zhi_cheng233
 
+要高考了(((((((((
+
 Home pages:[zhicheng233.top](https://zhicheng233.top)
 
 Blog:[blog.zhicheng233.top](https://blog.zhicheng233.top)
