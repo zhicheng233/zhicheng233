@@ -30,6 +30,12 @@ Donate:[喂口饭吧qwq](https://zhicheng233.top/Donate/)
 
 🐱Born in 2006 | INFP-T | Transfemale🏳‍⚧ | LGBT Friendly🏳️‍🌈 | Mental Disorder |
 
+应试教育和原生家庭的牺牲品..
+
+被计算机耽误的mol佬..
+
+下辈子再也不来广东
+
 Fuck your chinese! I want to learn English so well, but  I can't do it. Can you help me? thank~
 
 ~~Maybe my country English test is too hard?~~
@@ -49,5 +55,3 @@ I WANT TO DIE | I WANT TO DIE | I WANT TO DIE | I WANT TO DIE | I WANT TO DIE |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhicheng233)
 
-# Open Source Project
-目前没啥东西能丢GitHub上更多的是存档(
