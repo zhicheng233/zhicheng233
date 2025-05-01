@@ -30,7 +30,7 @@ Donate:[喂口饭吧qwq](https://zhicheng233.top/Donate/)
 
 # 📌About Me
 
-🐱Born in 2006 | INFP-T | Transfemale🏳‍⚧ | LGBT Friendly🏳️‍🌈 | Mental Disorder |
+🐱Born in 2006 | INFP-T | Transfemale🏳‍⚧ | LGBT Friendly🏳️‍🌈 | Mental Disorder | 🔐 Network Security |
 
 应试教育和原生家庭的牺牲品..
 
