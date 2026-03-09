@@ -1,7 +1,5 @@
 # Hi I'm zhi_cheng233
 
-要高考了(((((((((
-
 Home pages:[zhicheng233.top](https://zhicheng233.top)
 
 Blog:[blog.zhicheng233.top](https://blog.zhicheng233.top)
@@ -41,8 +39,6 @@ Donate:[喂口饭吧qwq](https://zhicheng233.top/Donate/)
 Fuck your chinese! I want to learn English so well, but  I can't do it. Can you help me? thank~
 
 ~~Maybe my country English test is too hard?~~
-
-I WANT TO DIE | I WANT TO DIE | I WANT TO DIE | I WANT TO DIE | I WANT TO DIE |
 
 # 🌈Future
 ![Static Badge](https://img.shields.io/badge/Rust-Code?logo=rust&label=Code&color=E64D21)
