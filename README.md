@@ -36,9 +36,7 @@ Donate:[喂口饭吧qwq](https://zhicheng233.top/Donate/)
 
 下辈子再也不来广东
 
-Fuck your chinese! I want to learn English so well, but  I can't do it. Can you help me? thank~
-
-~~Maybe my country English test is too hard?~~
+GPG fingerprint: `E47C BA8E ABE6 E2FB E38B F2D4 62B9 0831 895A 7482`
 
 # 🌈Future
 ![Static Badge](https://img.shields.io/badge/Rust-Code?logo=rust&label=Code&color=E64D21)
