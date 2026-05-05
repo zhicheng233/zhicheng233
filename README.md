@@ -1,6 +1,6 @@
 # Hi I'm zhi_cheng233
 
-Home pages:[zhicheng233.top](https://zhicheng233.top)
+WebSite:[zhicheng233.top](https://zhicheng233.top)
 
 Blog:[blog.zhicheng233.top](https://blog.zhicheng233.top)
 
