@@ -1,3 +1,5 @@
+>Note!:由于本人近期忙于参加数模竞赛，部分项目维护暂缓
+
 # Hi I'm zhi_cheng233
 
 WebSite:[zhicheng233.top](https://zhicheng233.top)
