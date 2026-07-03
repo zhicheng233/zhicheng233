@@ -20,13 +20,16 @@ Donate:[喂口饭吧qwq](https://zhicheng233.top/Donate/)
 
 ![](https://img.shields.io/badge/IntelliJ%20IDEA-IDE?style=flat&logo=intellijidea&logoColor=ffffff&label=IDE&color=3cc4ff)
 ![](https://img.shields.io/badge/PyCharm-IDE?style=flat&logo=pycharm&logoColor=ffffff&label=IDE&color=ffe108)
-![](https://img.shields.io/badge/Visual%20Studio%202022-IDE?style=flat&logo=visualstudio&logoColor=ffffff&label=IDE&color=%235C2D91)
+![](https://img.shields.io/badge/CLion-IDE?style=flat&logo=clion&logoColor=ffffff&label=IDE&color=%23000000)
 ![](https://img.shields.io/badge/Android%20Studio-IDE?style=flat&logo=androidstudio&logoColor=ffffff&label=IDE&color=%233DDC84)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-Editor?style=flat&logo=visualstudiocode&logoColor=ffffff&label=Editor&color=%23007ACC)
 
 ![](https://img.shields.io/badge/Java-Code?style=flat&logo=openjdk&logoColor=ffffff&label=Code&color=%23F80000)
 ![](https://img.shields.io/badge/Python-Code?style=flat&logo=python&logoColor=ffffff&label=Code&color=ffe108)
-![](https://img.shields.io/badge/C%23-Code?style=flat&logo=csharp&logoColor=ffffff&label=Code&color=%23512BD4)
+![](https://img.shields.io/badge/C%23-Code?style=flat&logo=sharp&logoColor=ffffff&label=Code&color=%23512BD4)
+![](https://img.shields.io/badge/C%2B%2B-Code?style=flat&logo=cplusplus&logoColor=ffffff&label=Code&color=%2300599C)
+![](https://img.shields.io/badge/TypeScript-Code?style=flat&logo=typescript&logoColor=ffffff&label=Code&color=%233178C6)
+![](https://img.shields.io/badge/Vue-Code?style=flat&logo=vuedotjs&logoColor=ffffff&label=Framework&color=%234FC08D)
 
 # 📌About Me
 
@@ -42,7 +45,7 @@ GPG fingerprint: `E47C BA8E ABE6 E2FB E38B F2D4 62B9 0831 895A 7482`
 
 # 🌈Future
 ![Static Badge](https://img.shields.io/badge/Rust-Code?logo=rust&label=Code&color=E64D21)
-![](https://img.shields.io/badge/C%2B%2B-Code?style=flat&logo=cplusplus&logoColor=ffffff&label=Code&color=%2300599C)
+
 ![](https://img.shields.io/badge/QT-Framework?style=flat&logo=qt&logoColor=ffffff&label=Framework&color=%2341CD52)
 ![](https://img.shields.io/badge/React-Framework?style=flat&logo=react&logoColor=ffffff&label=Framework&color=%2361DAFB)
 
