@@ -35,11 +35,13 @@ Donate:[喂口饭吧qwq](https://zhicheng233.top/Donate/)
 
 🐱Born in 2006 | INFP-T | Transfemale🏳‍⚧ | LGBT Friendly🏳️‍🌈 | Mental Disorder | 🔐 Network Security |
 
-应试教育和原生家庭的牺牲品..
+当一个灵魂砰然坠地，明天的太阳依旧升起
 
-被计算机耽误的mol佬..
+无人在意，活着且痛苦着
 
-下辈子再也不来广东
+向死而赴
+
+应试教育和原生家庭的牺牲品...
 
 GPG fingerprint: `E47C BA8E ABE6 E2FB E38B F2D4 62B9 0831 895A 7482`
 
