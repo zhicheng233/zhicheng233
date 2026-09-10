@@ -33,7 +33,7 @@ Donate:[喂口饭吧qwq](https://zhicheng233.top/Donate/)
 
 # 📌About Me
 
-🐱Born in 2006 | INFP-T | Transfemale🏳‍⚧ | LGBT Friendly🏳️‍🌈 | Mental Disorder | 🔐 Network Security |
+🐱Born in 2006 | INFP-T | Transfemale🏳‍⚧ | ADHD | LGBT Friendly🏳️‍🌈 | Mental Disorder | 🔐 Network Security |
 
 当一个灵魂砰然坠地，明天的太阳依旧升起
 
